@@ -1,0 +1,9 @@
+1) git init (create empty repository)
+2) git status (to check the global status of all the untracked files etc in this repository)
+
+3) git add 'filename' ( to add a particular file to tracing 'arena')
+4) git commit -m "message" (to commit all the uncommitted changes)
+5) git log (to view ALL the commits made)
+6) git remote add origin https://github.com/sahiliitm/testrepo.git   (to add the current repository to a repo on your github account)
+
+7) 
